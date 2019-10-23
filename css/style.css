@@ -14,6 +14,7 @@ body {
 	font-family: "Lato", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	scroll-behavior: smooth;
 }
 
 h1,
@@ -334,7 +335,7 @@ ol {
 	height: 600px;
 	padding-top: 100px;
 	display: block;
-	
+
 	background-size: cover;
 	background-color: #000000;
 	background-position: right top;
