@@ -931,8 +931,18 @@ ol {
 	padding: 30px 0;
 }
 
+.footer-bottom .row {
+	justify-content: center;
+}
+
 .footer-nav {
 	list-style: none;
+}
+
+@media (max-width: 767px) {
+	.footer-nav {
+		margin-top: 0.5em;
+	}
 }
 
 .footer-nav li {
