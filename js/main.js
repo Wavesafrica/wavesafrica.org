@@ -101,7 +101,7 @@ if ('serviceWorker' in navigator) {
 			button.style.position = 'absolute';
 			button.style.bottom = '24px';
 			button.style.left = '24px';
-			button.textContent = 'This site has updated. Please click here to see changes.';
+			button.textContent = 'Waves Africa has been updated. Click to refresh';
 			button.addEventListener('click', function() {
 				if (!registration.waiting) {
 					// Just to ensure registration.waiting is available before
