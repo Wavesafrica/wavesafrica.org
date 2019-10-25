@@ -184,6 +184,9 @@ ol {
 	color: #0055ff;
 }
 
+.solid-bg {
+	background-color: #0454FB;
+}
 .gradient-bg,
 .site-btn.sb-gradients,
 .member-social a:hover,
